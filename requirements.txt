@@ -1,0 +1,7 @@
+azure-core
+azure-ai-formrecognizer
+video_indexer
+Pillow
+azure-cognitiveservices-vision-face
+azure-cognitiveservices-vision-customvision
+pandas
